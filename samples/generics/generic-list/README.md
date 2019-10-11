@@ -27,6 +27,9 @@ Es müssen natürlich auch die Unittests entsprechend angepasst werden, damit da
      * Der Enumerator muss IDisposable implementieren und daher die Methode Dispose() anbieten
      * Da wir keine schwergewichtigen Ressourcen verwalten, müssen wir nichts freigeben
      * IEnumerator<T> verlangt auch, dass wir bei Current auch die nicht generische Version unterstützen
+
+       https://github.com/HTBLALeonding/csharp/blob/c701eb397806db85dc8de9ce01418e3dad931569/samples/generics/generic-list/GenericList-Solution/Lists.ListLogic/MyListEnumerator.cs#L40-L42
+
   1. MyList<T> 
      * Es muss die generische und die nicht generische Variante eines Enumerators geliefert werden.
 
