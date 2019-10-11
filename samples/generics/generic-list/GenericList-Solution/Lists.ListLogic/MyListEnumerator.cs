@@ -40,6 +40,7 @@ namespace Lists.ListLogic
         object IEnumerator.Current => Current;
 
         public T Current { get { return _actualNode.DataObject; } }
+        
         public void Dispose()
         {
             // nichts zu disposen
