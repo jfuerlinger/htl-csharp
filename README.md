@@ -19,18 +19,9 @@
 |  11   |      Observer       | Number-Generator (Observer)  | [Template](https://github.com/jfuerlinger/csharp_samples_observer_numbergenerator)  |                                                                                             |                                                                   |
 |  12   |      Delegates      | Number-Generator (Delegates) | [Template](https://github.com/jfuerlinger/csharp_samples_delegates_numbergenerator) |                                                                                             | [Live Coding](https://github.com/jfuerlinger/LiveCoding_20191212) |
 |       |       Events        |  Number-Generator (Events)   | [Template](https://github.com/jfuerlinger/csharp_samples_events_numbergenerator)    |                                                                                             |                                                                   |
-|  13   | Exception Handling  |    Expression-Interpreter    |                                                                                     |                                                                                             |                                                                   |
-|  14   | Exception Handling  |    Expression-Interpreter    |                                                                                     |                                                                                             |                                                                   |
+|  13   |       Events        |          FastClock           | [Template](https://github.com/jfuerlinger/csharp_samples_events_fastclock-template) | [Solution](https://github.com/jfuerlinger/csharp_samples_events_fastclock-solution)         |                                                                   |
+|     | Events  |    Producer/Consumer    |   [Template](https://github.com/jfuerlinger/csharp_samples_events_producerconsumer-template)                                                                            |                    [Solution](https://github.com/jfuerlinger/csharp_samples_events_producerconsumer-solution)                                                                         |                                                                   |
 |  15   | Exception Handling  |    Expression-Interpreter    |                                                                                     |                                                                                             |                                                                   |
 |  16   | Exception Handling  |    Expression-Interpreter    |                                                                                     |                                                                                             |                                                                   |
 |  17   | Exception Handling  |    Expression-Interpreter    |                                                                                     |                                                                                             |                                                                   |
-
-
-
-
-
-
-
-
-
 
