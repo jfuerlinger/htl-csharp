@@ -32,5 +32,6 @@
 |       |  Entity Framework   |        Formel 1 (EF)         | [Template](https://github.com/jfuerlinger/csharp_samples_ef_formula1-template)                   | [Solution](https://github.com/jfuerlinger/csharp_samples_ef_formula1-solution)                   |                                                                            |
 |  18   |  Entity Framework   |   Coffee Slot Machine (EF)   | [Template](https://github.com/jfuerlinger/csharp_samples_ef_coffeeslotmachine-template)          | [Solution](https://github.com/jfuerlinger/csharp_samples_ef_coffeeslotmachine-solution)          | [Live Coding](https://github.com/jfuerlinger/POS_LiveCoding_2020-03-12_EF) |
 |  19   |  Repository / UnitOfWork   |   SmartSchool (EF)   | [Template](https://github.com/jfuerlinger/csharp_samples_ef_uow_smartschool-template)          | [Solution](https://github.com/jfuerlinger/csharp_samples_ef_uow_smartschool-solution)          |  |
+|  20   |  Repository / UnitOfWork   |   GitStatistics (EF)   | [Template](https://github.com/jfuerlinger/csharp_samples_ef_uow_gitstatistics-template)          | [Solution](https://github.com/jfuerlinger/csharp_samples_ef_uow_gitstatistics-solution)          |  |
 
 
