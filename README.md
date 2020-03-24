@@ -35,3 +35,10 @@
 |  20   | Repository / UnitOfWork |      GitStatistics (EF)      | [Template](https://github.com/jfuerlinger/csharp_samples_ef_uow_gitstatistics-template)          | [Solution](https://github.com/jfuerlinger/csharp_samples_ef_uow_gitstatistics-solution)          |                                                                            |
 |  21   | Repository / UnitOfWork |     Premiere League (EF)     | [Template](https://github.com/jfuerlinger/csharp_samples_ef_uow_premierleague-template)          | [Solution](https://github.com/jfuerlinger/csharp_samples_ef_uow_premierleague-solution)          |                                                                            |
 
+
+# Prüfungen
+
+|    Stoff    |      Beispiel      | Template                                                                                  | Solution                                                                                  |
+|:-----------:|:------------------:|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| Algorithmen | CreditCard Checker | [Template](https://github.com/jfuerlinger/csharp_samples_algo_creditcardchecker-template) | [Solution](https://github.com/jfuerlinger/csharp_samples_algo_creditcardchecker-solution) |
+
