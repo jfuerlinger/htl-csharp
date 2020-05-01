@@ -39,7 +39,7 @@
 |  23   |   WebApi - Lesender Zugriff   |    Movie Manager (WebApi - Teil 1)    |   [Template](https://github.com/jfuerlinger/csharp_samples_webapi_moviemanager-part1-template)    |                                                -                                                 |       [LiveCoding](https://github.com/jfuerlinger/csharp_livecoding_ef_uow_webapi-part1)       |
 |       |                               | Coffee Slot Machine (WebApi - Teil 1) | [Template](https://github.com/jfuerlinger/csharp_samples_webapi_coffeeslotmachine-part1-template) |                                                -                                                 |                                               -                                                |
 |  24   | WebApi - Schreibender Zugriff |    Movie Manager (WebApi - Teil 2)    |   [Template](https://github.com/jfuerlinger/csharp_samples_webapi_moviemanager-part2-template)    |   [Solution](https://github.com/jfuerlinger/csharp_samples_webapi_moviemanager-part2-solution)   | [LiveCoding](https://github.com/jfuerlinger/csharp_livecoding_ef_uow_webapi-part2/tree/master) |
-
+|  25   | Razor Pages - Getting Started |    Movie Manager (Razor Pages - Teil 1)    |   [Template](https://github.com/jfuerlinger/csharp_samples_razorpages_moviemanager-part1-template)    |   -   | [LiveCoding](https://github.com/jfuerlinger/csharp_livecoding_ef_uow_razorpages-part1/tree/master) |
 
 
 # Prüfungen
